@@ -16,15 +16,7 @@ Uniapp 是一个对前端工程师及其友好的跨端开发框架，至少用�
 
 - 极简界面 ToDoList -- (入门项目) 【 Minimalist interface ToDoList -- (starter project) 】
 
-<div style="display:flex;">
-
 <img style="width:200px;flex:1;margin-right:20px;" src="./readme_images/Minimalist%20interface%20ToDoList/1.jpg"><img />
-
-<img style="width:200px;flex:1;margin-right:20px;" src="./readme_images/Minimalist%20interface%20ToDoList/2.jpg"><img />
-
-<img style="width:200px;flex:1;" src="./readme_images/Minimalist%20interface%20ToDoList/3.jpg"><img />
-
-</div>
 
 ### ToDoList 功能简介
 
